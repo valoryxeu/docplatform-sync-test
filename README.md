@@ -1,5 +1,4 @@
 ---
-id: 01KNPZ9YJFSTDHTMDW78QXH74B
 title: Welcome
 ---
 

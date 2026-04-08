@@ -1,5 +1,4 @@
 ---
-id: 01KNQ41XYF6CXHA28EWVD7ZGBC
 title: Setup Guide
 ---
 
